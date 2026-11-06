@@ -1,0 +1,8 @@
+streamlit>=1.66,<2
+pandas>=2.3,<4
+google-genai>=2.34,<3
+pydantic>=2.14,<3
+python-dotenv>=1.2,<2
+requests>=2.34,<3
+beautifulsoup4>=4.15,<5
+pytest>=9.2,<10
